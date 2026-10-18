@@ -1,0 +1,4 @@
+{"expr": "x^2", "prefix": "", "next": "2"}
+{"expr": "x^2", "prefix": "2", "next": "*"}
+{"expr": "x^2", "prefix": "2*", "next": "x"}
+{"expr": "x^2", "prefix": "2*x", "next": "END"}
