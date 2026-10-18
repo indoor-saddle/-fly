@@ -1,6 +1,0 @@
-{"expr": "x^7", "prefix": "", "next": "7"}
-{"expr": "x^7", "prefix": "7", "next": "*"}
-{"expr": "x^7", "prefix": "7*", "next": "x"}
-{"expr": "x^7", "prefix": "7*x", "next": "^"}
-{"expr": "x^7", "prefix": "7*x^", "next": "6"}
-{"expr": "x^7", "prefix": "7*x^6", "next": "END"}

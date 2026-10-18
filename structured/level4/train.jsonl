@@ -1,5 +1,0 @@
-{"expr": "x^2", "coefficient": 1, "exponent": 2, "answer": "2*x"}
-{"expr": "x^3", "coefficient": 1, "exponent": 3, "answer": "3*x^2"}
-{"expr": "x^4", "coefficient": 1, "exponent": 4, "answer": "4*x^3"}
-{"expr": "x^5", "coefficient": 1, "exponent": 5, "answer": "5*x^4"}
-{"expr": "x^6", "coefficient": 1, "exponent": 6, "answer": "6*x^5"}
